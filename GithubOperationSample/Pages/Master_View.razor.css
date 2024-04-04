@@ -9,6 +9,11 @@
     height: 100%;
 }
 .input {
+    margin: 0 0 10px;
+    height: max-content;
+    min-width: min-content;
+}
+.input_1 {
     height: max-content;
     min-width: min-content;
 }
